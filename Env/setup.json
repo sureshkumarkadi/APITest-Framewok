@@ -1,0 +1,6 @@
+{"createapi": "/api/users",
+ "getapi":"/api/users/2",
+ "prestagprotocol" : "https://reqres.in",
+ "stagprotocol" : "https://reqres.in",
+ "url": "stagurl"
+}
