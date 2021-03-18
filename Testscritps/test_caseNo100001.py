@@ -66,6 +66,7 @@ class TestcaseNo100001(unittest.TestCase):
                 self.fail("Test case No : 100002 is failed")
              finally:
                 application.closebrower(browser)
+                print("closebrowser")
                 i=i+1
         #else:
         #    print("not equal")
